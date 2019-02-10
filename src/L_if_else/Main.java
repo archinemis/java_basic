@@ -12,12 +12,12 @@ package L_if_else;
 public class Main {
     public static void main(String[] args) {
         
-        int angka = 3;
+        boolean sayang = true;
         
-        if (angka%2 == 0) {
-            System.out.println("Genap");
+        if (sayang == true) {
+            System.out.println("Dia sayang");
         }else{
-            System.out.println("Ganjil");
+            System.out.println("Dia ngga sayang");
         }
         
     }

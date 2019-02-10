@@ -12,10 +12,10 @@ package K_if;
 public class Main {
     public static void main(String[] args) {
         
-        boolean tanya = true;
+        boolean sayang = true;
         
-        if (tanya = true) {
-            System.out.println("Benar");
+        if (sayang == true) {
+            System.out.println("Dia Sayang");
         }
         
     }
