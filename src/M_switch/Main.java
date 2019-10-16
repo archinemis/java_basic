@@ -23,6 +23,9 @@ public class Main {
             case 3:
                 System.out.println("nilai a = 3");
                 break;
+			case 4:
+				System.out.println("nilai a = 4");
+				break;
             default :
                 System.out.println("nilai a tidak diketahui");
         }
